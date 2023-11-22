@@ -1,0 +1,8 @@
+.text {
+  text-align: center;
+  background-color: brown;
+  color:aqua;
+  text-transform: uppercase;
+  text-decoration-line: var(uppercase);
+  text-size-adjust: 100px;
+}
